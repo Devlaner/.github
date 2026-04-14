@@ -1,24 +1,41 @@
 # Devlaner
+
+[![Organization members](https://img.shields.io/github/orgs/Devlaner/members?style=for-the-badge)](https://github.com/orgs/Devlaner/people)
+[![Organization repositories](https://img.shields.io/github/orgs/Devlaner/repositories?style=for-the-badge)](https://github.com/orgs/Devlaner/repositories)
+[![Organization followers](https://img.shields.io/github/followers/Devlaner?style=for-the-badge)](https://github.com/Devlaner)
 [![committers.top badge](https://org-badge.committers.top/azerbaijan/Devlaner.svg)](https://org-badge.committers.top/azerbaijan/Devlaner)
 
-**Devlaner** is the home of **Devlane** — issue tracking and project management you can run yourself. No vendor lock-in, no per-seat upsell. You get workspaces, projects, issues, cycles, modules, and a single place for your team’s work and activity.
+Open-source tools for modern product teams.
 
----
+At **Devlaner**, we build products that help teams plan, collaborate, and ship faster — while staying in control of their own infrastructure and data.
 
-### Why we exist
+## 🚀 Our projects
 
-Teams need to know what’s being built, who’s doing it, and how it’s going. That shouldn’t depend on a closed product or a monthly bill. Devlane is built to be self-hosted and straightforward: you own the data and the instance, and you can adapt it to how your team actually works.
+| Project | What it is | Status |
+| --- | --- | --- |
+| **[Devlane](https://github.com/Devlaner/devlane)** | Open-source Jira / Linear / Monday / ClickUp / Plane alternative for projects, issues, sprints, docs, and triage | ![Stars](https://img.shields.io/github/stars/Devlaner/devlane?style=flat-square) ![Forks](https://img.shields.io/github/forks/Devlaner/devlane?style=flat-square) ![Issues](https://img.shields.io/github/issues/Devlaner/devlane?style=flat-square) |
+| **[Loomy](https://github.com/Devlaner/loomy)** | Open-source collaborative whiteboard for real-time visual teamwork | ![Stars](https://img.shields.io/github/stars/Devlaner/loomy?style=flat-square) ![Forks](https://img.shields.io/github/forks/Devlaner/loomy?style=flat-square) ![Issues](https://img.shields.io/github/issues/Devlaner/loomy?style=flat-square) |
+| **[Clevis](https://github.com/Devlaner/clevis)** | Fast TypeScript project in the Devlaner ecosystem | ![Stars](https://img.shields.io/github/stars/Devlaner/clevis?style=flat-square) ![Forks](https://img.shields.io/github/forks/Devlaner/clevis?style=flat-square) ![Issues](https://img.shields.io/github/issues/Devlaner/clevis?style=flat-square) |
 
----
+## 🌍 Quick links
 
-### What we care about
+- 🌐 Website: **[devlane.dev](https://devlane.dev)**
+- 🧩 Repositories: **[github.com/Devlaner](https://github.com/Devlaner)**
+- 🐞 Feature requests & bugs: open issues in each project repository
 
-- **Clarity** — Issues, assignees, cycles, and modules in one place so progress is visible.
-- **Simplicity** — Enough structure to be useful, not so much that the tool gets in the way.
-- **Independence** — Run it on your own infrastructure; no requirement to use someone else’s cloud.
+## 🤝 Community and contributors
 
----
+We build in public and welcome contributions of all sizes.
 
-### Get started
+[![Contributors](https://contrib.rocks/image?repo=Devlaner/devlane)](https://github.com/Devlaner/devlane/graphs/contributors)
 
-The main project is **[Devlaner/devlane](https://github.com/Devlaner/devlane)**. Clone it, run the API and UI (see the repo README), and you’re off. We’re iterating in the open and welcome feedback and contributions.
+Want to contribute?
+
+- Check each repository for `good first issue` and `help wanted` labels.
+- Read each repo's `CONTRIBUTING.md` and `SECURITY.md` before submitting changes.
+
+## 🧭 What we care about
+
+- **Clarity** — Work, ownership, and progress should be visible.
+- **Simplicity** — Powerful enough for teams, simple enough to stay out of the way.
+- **Independence** — Self-hosted, open source, and adaptable.
