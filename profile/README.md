@@ -15,11 +15,12 @@ At **Devlaner**, we build products that help teams plan, collaborate, and ship f
 | --- | --- | --- |
 | **[Devlane](https://github.com/Devlaner/devlane)** | Open-source Jira / Linear / Monday / ClickUp / Plane alternative for projects, issues, sprints, docs, and triage | ![Stars](https://img.shields.io/github/stars/Devlaner/devlane?style=flat-square) ![Forks](https://img.shields.io/github/forks/Devlaner/devlane?style=flat-square) ![Issues](https://img.shields.io/github/issues/Devlaner/devlane?style=flat-square) |
 | **[Loomy](https://github.com/Devlaner/loomy)** | Open-source collaborative whiteboard for real-time visual teamwork | ![Stars](https://img.shields.io/github/stars/Devlaner/loomy?style=flat-square) ![Forks](https://img.shields.io/github/forks/Devlaner/loomy?style=flat-square) ![Issues](https://img.shields.io/github/issues/Devlaner/loomy?style=flat-square) |
-| **[Clevis](https://github.com/Devlaner/clevis)** | Fast TypeScript project in the Devlaner ecosystem | ![Stars](https://img.shields.io/github/stars/Devlaner/clevis?style=flat-square) ![Forks](https://img.shields.io/github/forks/Devlaner/clevis?style=flat-square) ![Issues](https://img.shields.io/github/issues/Devlaner/clevis?style=flat-square) |
+| **[Clevis](https://github.com/Devlaner/clevis)** | Open-source github security and maintenance tool | ![Stars](https://img.shields.io/github/stars/Devlaner/clevis?style=flat-square) ![Forks](https://img.shields.io/github/forks/Devlaner/clevis?style=flat-square) ![Issues](https://img.shields.io/github/issues/Devlaner/clevis?style=flat-square) |
 
 ## 🌍 Quick links
 
 - 🌐 Website: **[devlane.dev](https://devlane.dev)**
+- 🌐 Lommy **[loomy.devlane.dev](https://loomy.devlane.dev)**
 - 🧩 Repositories: **[github.com/Devlaner](https://github.com/Devlaner)**
 - 🐞 Feature requests & bugs: open issues in each project repository
 
