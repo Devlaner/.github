@@ -3,7 +3,7 @@
 [![GitHub organization](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github)](https://github.com/Devlaner)
 [![Members](https://img.shields.io/badge/Members-People-0969da?style=for-the-badge&logo=github)](https://github.com/orgs/Devlaner/people)
 [![Repositories](https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github)](https://github.com/orgs/Devlaner/repositories)
-[![committers.top badge](https://org-badge.committers.top/azerbaijan/Devlaner.svg)](https://org-badge.committers.top/azerbaijan/Devlaner)
+[![committers.top badge](https://org-badge.committers.top/azerbaijan_private/devlaner.svg)](https://org-badge.committers.top/azerbaijan_private/devlaner)
 
 Open-source tools for modern product teams.
 
